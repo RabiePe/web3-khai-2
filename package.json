@@ -1,6 +1,6 @@
 {
   "name": "web3-khai-2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Map Component: Hiển thị bản đồ và đánh dấu các địa điểm quan trọng",
   "main": "index.js",
   "scripts": {
